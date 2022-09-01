@@ -1,7 +1,5 @@
-# Weather Live App
-### Cryptocurrency Price Tracker
+# Cryptocurrency Price Tracker
   
-
 ## Screenshot
 [![image](./assets/screenshot.png)](https://ayushranjanpandey.github.io/cryptocurrency-tracker/)
 
